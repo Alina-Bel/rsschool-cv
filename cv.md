@@ -19,4 +19,9 @@ I can't stand waisting time\. I try to find something that will inspire me, that
 I am patient, enjoy studying and like to challenge myself\. That is why I am writing my first CV here\. <br>
 I do not have any work experience, but I believe I will be able to share it soon.
 
+##### Education #####
+
+I garduated Belarussian State Economic University, Faculty of International Economic Relations\. <br>
+I took a course at "Stepic" called "Веб-разработка для начинающих: HTML и CSS"\. And read a book at the web-site https:\/\/learn\.javascript\.ru\/\.<br>
+Now I am studying JavaScript at "RS School"\.
 
