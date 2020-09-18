@@ -25,3 +25,6 @@ I garduated Belarussian State Economic University, Faculty of International Econ
 I took a course at "Stepic" called "Веб-разработка для начинающих: HTML и CSS"\. And read a book at the web-site https:\/\/learn\.javascript\.ru\/\.<br>
 Now I am studying JavaScript at "RS School"\.
 
+##### English #####
+
+English level \- intermediate\. <br>
